@@ -2,7 +2,7 @@
 - 👀 I’m interested in websites, games and animes
 - 🌱 I’m currently learning Web-Development
 - 💞️ I’m looking for opportunities
-- 📫 Reach me - aniksahamda@gmail.com
+- 📫 Reach me - iamaniksaha.dev@gmail.com
 
 <!---
 anik-saha-2001/anik-saha-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
