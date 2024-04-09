@@ -1,5 +1,5 @@
 # 👋Hi, I am Anik!
-👨‍🎓 Studing Computer Science at SIT, India<br>🌱 I’m currently learning Full Stack Development<br>👬 I'm looking to collaborate on Web Development<br>📧 Reach me iamaniksaha.dev@gmail.com
+👨‍🎓 Studing B.Tech in Computer Science<br>🌱 I’m currently learning Full Stack Development<br>👬 I'm looking to collaborate on Web Development<br>📧 Reach me iamaniksaha.dev@gmail.com
 
 
 ## 🌐 Socials:
