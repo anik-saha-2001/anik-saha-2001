@@ -5,7 +5,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniksaha2001) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamanikdev) 
 
----
 [![](https://visitcount.itsvg.in/api?id=anik-saha-2001&icon=5&color=4)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
